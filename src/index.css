@@ -1,0 +1,23 @@
+
+
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.back-div{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 50%;
+}
